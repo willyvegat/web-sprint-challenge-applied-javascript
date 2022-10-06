@@ -31,11 +31,11 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 - [ x] Run `npm install` to download the dependencies listed in the `package.json` file.
 - [ x] Run `npm start` to compile the project and serve it.
 - [ x] Navigate Chrome to `http://localhost:3000`
-- [ ] In a separate terminal, run `npm test` to run tests.
+- [ x] In a separate terminal, run `npm test` to run tests.
 
 **Steps Required for MVP:**
 
-- [ ] Steps 1 and 2 are explained inside the `src/components/header.js` file.
+- [ x] Steps 1 and 2 are explained inside the `src/components/header.js` file.
 - [ ] Steps 3 and 4 are explained inside the `src/components/tabs.js` file.
 - [ ] Steps 5 and 6 are explained inside the `src/components/card.js` file.
 
@@ -50,17 +50,22 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 
 ## Submission format
 
-- [ ] Submit via Codegrade by committing and pushing any new changes to the *main* branch.
-- [ ] Check Codegrade for automated feedback.
-- [ ] Check Codegrade in the days following the Sprint Challenge for reviewer feedback.
-- [ ] Any changes pushed after the deadline will not receive any feedback.
+- [ x] Submit via Codegrade by committing and pushing any new changes to the *main* branch.
+- [ x] Check Codegrade for automated feedback.
+- [ x] Check Codegrade in the days following the Sprint Challenge for reviewer feedback.
+- [ x] Any changes pushed after the deadline will not receive any feedback.
 
 ## Interview Questions
 
 Demonstrate your understanding of this week's concepts by answering the following questions:
 
 1. What is the DOM?
+- It stands for document object model. It is a programming interface for web documents
 2. What is an event?
+- a change in the state of an object
 3. What is an event listener?
+- An event listener is a function in a computer program that waits for an event to occur 
 4. Why would we convert a NodeList into an Array?
+- So that is has access to the build in functions or methods of an array
 5. What is a component?
+- A function
